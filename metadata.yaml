@@ -1,0 +1,33 @@
+_repo: Mysticism-and-Logic-and-Other-Essays_25447
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2008-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- !lcsh 'Science'
+- !lcsh 'Mathematics'
+title: Mysticism and Logic and Other Essays
+url: http://www.gutenberg.org/ebooks/25447
